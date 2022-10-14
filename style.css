@@ -1,0 +1,87 @@
+.navbar {
+    list-style: none;
+    background-color: red;
+    margin: 0px auto;
+    padding: 10px 0px;
+    width: auto;
+    text-align: center; 
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 59px;
+    font-size: 24px;
+}
+
+.navbar a:hover {
+    background-color: deepskyblue;
+    padding: 12px 60px;
+}
+
+#container {
+    border: 6px solid red;
+    border-top: 6px dashed red;
+    border-bottom: 6px dashed red;
+    width: 80%;
+    height: 1000px;
+    margin: 30px auto;
+    overflow: auto;
+    background-color: #00bfff;
+    position: relative;
+}
+.red img {
+    position: absolute;
+    z-index: 3;
+    align-content: center;
+   
+    
+}
+h1 {
+    font-size: 90px;
+    text-align: center;
+    color: red;
+
+}
+.luffy script { 
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    right;510px;
+}
+p {
+    font-size: 50px;
+   
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
